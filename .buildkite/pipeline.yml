@@ -12,6 +12,7 @@ steps:
           - Staging
           - QA1
           - QA2
+          - Poes
           - Production
       - select: "Would you like a :taco: after this deploy?"
         hint: "Less than 6 options will show a radio, more than 6 will show a select box"
